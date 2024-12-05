@@ -1,2 +1,7 @@
 # node-backend
-test tasks
+
+## dependencies
+npm i
+
+## start server
+npm start
